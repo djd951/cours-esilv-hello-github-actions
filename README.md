@@ -31,6 +31,8 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - You created an event trigger, a job, and steps for your workflow.
 - You're ready to automate anything you can dream of.
 
+:smile:
+
 <footer>
 
 <!--
